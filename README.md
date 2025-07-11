@@ -6,7 +6,7 @@ A **Gemini Clone** built using **React** that replicates the functionality of th
 ## 🚀 Live Demo
 
 Check out the live version of the project here:
-[Gemini Clone Live Demo]()
+[Gemini Clone Live Demo](https://gemini-clone-701i.onrender.com)
 
 ## 📂 Project Overview
 
