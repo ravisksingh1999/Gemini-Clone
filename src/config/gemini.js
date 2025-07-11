@@ -1,5 +1,6 @@
 const MODEL   = "gemini-2.5-flash";
-const API_KEY="AIzaSyCGgdJSyO_ORbcF5q4GaUz3FbRYkJlS5Sk";
+const API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
+
 const API_URL = `https://generativelanguage.googleapis.com/v1/models/${MODEL}:generateContent`;
 
 export const run = async (userInput) => {
