@@ -2,12 +2,11 @@
 
 A **Gemini Clone** built using **React** that replicates the functionality of the Gemini platform. This project implements a search function with real-time data fetching via API, offering a clean and responsive user experience.
 
-![Gemini Clone Screenshot](https://example.com/screenshot.png) *(Add a link to your project’s screenshot here)*
 
 ## 🚀 Live Demo
 
 Check out the live version of the project here:
-[Gemini Clone Live Demo](https://gemini-by-anuj.vercel.app/)
+[Gemini Clone Live Demo]()
 
 ## 📂 Project Overview
 
@@ -27,7 +26,7 @@ This project is a clone of the Gemini platform, created to showcase frontend dev
 - **CSS**: For styling the application.
 - **Flexbox**: Used for creating a flexible and responsive layout.
 - **API Integration**: To handle data fetching and display results dynamically.
-- **Vercel**: Deployment platform for hosting the live project.
+
 
 ## 📦 Getting Started
 
@@ -67,11 +66,6 @@ Make sure you have the following installed on your machine:
 ## ⚙️ API Integration
 This project uses a public API to fetch and display data dynamically. You can replace the API URL in the codebase with your preferred data source. The API is called in the search component to display relevant results based on user input.
 
-## 🚀 Deployment
-This project is deployed on Vercel. To deploy your own version:
-
-1. **Create a Vercel account**: [https://vercel.com/](https://vercel.com/)
-2. **Link your GitHub repository** and follow the deployment steps from the dashboard.
 
 ## 🤝 Contributing
 Contributions are welcome! If you’d like to contribute:
@@ -92,11 +86,10 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 📞 Contact
 Feel free to reach out to me for any questions or suggestions!
 
-- **Name**: Anuj Gaurave
-- **LinkedIn**: [Anuj Gaurave](https://www.linkedin.com/in/anuj-gaurave/)
-- **Email**: anujgaurave@gmail.com 
+- **Name**: Ravishankar Kumar
+- **LinkedIn**: [Ravishankar Kumar](https://www.linkedin.com/in/ravisksingh_1999/)
+- **Email**: ravishankarks199@gmail.com 
 
 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
